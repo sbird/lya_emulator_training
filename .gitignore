@@ -1,0 +1,10 @@
+slurm-*
+PART_*
+PIG_*
+*_submit
+*_submit_genic
+ICS
+MP-G*
+camb_linear
+chain_*
+output
