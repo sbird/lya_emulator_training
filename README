@@ -1,0 +1,6 @@
+This repository contains the simulation parameter files
+and flux power spectra for the set of small, unresolved, 2x256^3
+test simulations used in 1812.04654
+
+Flux power spectra are in a format ingestible by the Lyman-alpha emulator
+at: https://github.com/sbird/lya_emulator
